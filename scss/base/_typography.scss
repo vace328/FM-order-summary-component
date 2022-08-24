@@ -1,0 +1,16 @@
+body {
+    font-family: $ffamily_primary;
+    font-size: $fsize_primary;
+}
+h1 {
+    font-size: 22px;    
+    // letter-spacing: 0.02em;
+    // line-height: 29px;
+    font-weight: 900;
+}
+
+p {
+    font-size: $fsize_primary;
+    font-weight: 500;
+   
+}
